@@ -1,7 +1,7 @@
-# FirstCod
 
-LearningGitHub
 
-Making the tutorial of GitHub. Just the first of many codes that i wanna do.
+Learning git
 
-#Dont Watch an anime call Boku
+Making the tutorial of GitHub
+
+# Don't ever watch an anime call BOKU
